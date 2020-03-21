@@ -81,7 +81,6 @@ namespace cViP.AA
         }
         private static void hook_KeyDown(object sender, KeyEventArgs e)
         {
-            //判断按下的键（Ctrl + A）
             if (e.KeyCode == Keys.S && (Control.ModifierKeys & Keys.Shift) == Keys.Shift && (Control.ModifierKeys & Keys.Alt) == Keys.Alt)
             {
                 timer.Start();
