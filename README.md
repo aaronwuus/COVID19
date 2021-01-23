@@ -1,5 +1,5 @@
 # COVID19
-Some tools to against COVID-19
+Some tools for remote work
 
 keep your team or skype activated!
 
